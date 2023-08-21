@@ -1,0 +1,12 @@
+<!DOCTYPE html> - the html5 boiler plate
+<html lang = "en">
+    <head>
+    No website content in here
+    <meta> meta tag also known as the character set for MOst common is UTf8
+    </head>
+
+    <body>
+    All content of website goes such as text and images
+
+    </body>
+</html>
